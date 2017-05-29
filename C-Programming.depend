@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496039433 source:/home/rvaibhav/code/C-Programming/hello_world.c
+	<stdio.h>
+
+1495949522 source:/home/rvaibhav/code/C-Programming/main.c
+	<stdio.h>
+	<stdlib.h>
+
